@@ -1,0 +1,17 @@
+h1 {
+    font-style: italic;
+    color: rgb(0, 121, 60);
+    font-weight: 600;
+   }
+
+h2{
+    font-style: italic;
+    color: rgb(0, 121, 60);
+}
+
+ul.list{
+    font: 400;
+    font-style: italic;
+    font-weight: 500;
+    margin: auto;
+}

@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: arial, sans-serif;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #fffae8;
+}
+
+#title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#image{
+    text-align: center;
+    margin-top: 0 10px 10px 0;
+}
+
+#img caption {
+    float: left;
+    width: 50%;
+    margin: 0 10px 10px 0;
+}
+
+#tribute {
+    border: 1px solid #000000;
+    padding: 10px;
+    width: 600px;
+    border-radius: 5px;
+    margin: 0 auto;
+ 
+
+}
+
+#tribute info li {
+    list-style: none;
+    margin: 5px;
+    
+      
+}
+
+#tribute-info h3 {
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}

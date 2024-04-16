@@ -1,0 +1,57 @@
+
+
+
+#Strawberry-Jam {
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: #ffafaf;
+}
+
+h2 img {
+    display: block;
+    width: 100%;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+#nav-bar ul ul {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+#features {
+   
+  padding: 20px;
+}
+
+#features li {
+    margin-bottom: 20px;
+    list-style-type: none;
+    text-align: left;
+    color: #333;
+}
+
+#features li:before {
+    content:"•";
+    margin-right: 10px;
+}
+
+#id {
+    text-align: center;
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.nav-link {
+    color: #333;
+}
+
+.nav-link:hover {
+    color: #666;
+}
